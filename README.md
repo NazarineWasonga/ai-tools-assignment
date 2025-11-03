@@ -12,7 +12,7 @@ This repository contains our group’s Week 3 submission for the AI Tools Assign
 - Presentation Link
 
 ### Group Members
-- [Your group names here]
+- No members 
 
 ### Tools Used
 - Scikit-learn
@@ -20,5 +20,4 @@ This repository contains our group’s Week 3 submission for the AI Tools Assign
 - spaCy
 - Google Colab
 
-### Results
-See `images/` folder for output screenshots.
+
